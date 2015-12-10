@@ -11,7 +11,7 @@ public class Problem_018
 {
     public static final int NUM_LINES = 15;
     public static int[][] ar = new int[NUM_LINES][NUM_LINES];
-    public static final String FILE_PATH = "data/data_p018.txt";
+    public static final String FILE_PATH = "data_p018.txt";
 
     public static void main(String [] args) throws IOException
     {

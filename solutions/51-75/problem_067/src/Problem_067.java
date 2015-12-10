@@ -12,7 +12,7 @@ public class Problem_067
 {
     public static final int NUM_LINES = 100;
     public static long[][] ar = new long[NUM_LINES][NUM_LINES];
-    public static final String FILE_NAME = "data/data_p067.txt";
+    public static final String FILE_NAME = "data_p067.txt";
 
     public static void main(String [] args) throws IOException
     {

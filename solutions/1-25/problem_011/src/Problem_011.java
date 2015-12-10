@@ -7,7 +7,7 @@ import java.io.*;
  */
 public class Problem_011
 {
-    public static final String FILE_PATH = "data/data_p011.txt";
+    public static final String FILE_PATH = "data_p011.txt";
 
 	public static void main(String [] args) throws IOException
 	{

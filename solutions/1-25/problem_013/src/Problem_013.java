@@ -9,7 +9,7 @@ import java.io.IOException;
  */
 public class Problem_013
 {
-    public static final String FILE_PATH = "data/data_p013.txt";
+    public static final String FILE_PATH = "data_p013.txt";
 
     public static void main(String [] args) throws IOException
     {
